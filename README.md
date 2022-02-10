@@ -15,6 +15,6 @@ Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
 6. Open Minecraft launcher and click the Installations tab. Create a new installation and select the version that corresponds with this modded client (should be named 1.18.1-Netherite). Then, select this new intallation in the launcher home screen and click Play.
 
 # Warning:
-Do NOT use these modded clients for actual competitive gamemodes, as doing so is cheating.
+Do NOT use this modded client for actual competitive gamemodes, as doing so is cheating.
 
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
