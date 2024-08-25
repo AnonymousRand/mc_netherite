@@ -1,5 +1,5 @@
 {
-  "id": "1.18.1-Netherite",
+  "id": "netherite",
   "time": "2021-12-10T00:26:34-08:00",
   "releaseTime": "2021-12-10T00:23:00-08:00",
   "type": "release",
@@ -1554,7 +1554,7 @@
     }
   ],
   "assetIndex": {
-    "id": "1.18",
+    "id": "netherite",
     "totalSize": 465840848,
     "size": 348135,
     "url": "https://launchermeta.mojang.com/v1/packages/6b87c76d1edcb1fb0d933382cbb8bb8483c362c4/1.18.json"
