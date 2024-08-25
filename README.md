@@ -1,6 +1,6 @@
 # MC-Netherite
 
-Modded Minecraft 1.18.1 client. I forgot what this does but my old readme says "Just for fun".
+Modded Minecraft 1.18.1 client.
 
 # Installation guide:
 
