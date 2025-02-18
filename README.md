@@ -1,4 +1,4 @@
-# MC-Netherite
+# Minecraft Netherite
 
 Modded Minecraft 1.18.1 client.
 
